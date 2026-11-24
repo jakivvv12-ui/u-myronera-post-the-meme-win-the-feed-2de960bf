@@ -1,8 +1,8 @@
 # Post the Meme, Win the Feed
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-7c3aed)](https://make.fun/bounty/u-myronera-post-the-meme-win-the-feed-2de960bf?ref=0vka1qv8)
-[![prize $2](https://img.shields.io/badge/prize-%242%20top%2015-green)](https://make.fun/bounty/u-myronera-post-the-meme-win-the-feed-2de960bf?ref=0vka1qv8)
-[![deadline 26 Nov 2026](https://img.shields.io/badge/deadline-26%20Nov%202026-orange)](https://make.fun/bounty/u-myronera-post-the-meme-win-the-feed-2de960bf?ref=0vka1qv8)
+[![make.fun · u-myronera-post-the-meme-win-the-feed-2de960bf](https://make.fun/badge/u-myronera-post-the-meme-win-the-feed-2de960bf.svg)](https://make.fun/bounty/u-myronera-post-the-meme-win-the-feed-2de960bf?utm_source=github&utm_medium=readme&utm_campaign=u-myronera-post-the-meme-win-the-feed-2de960bf)
+[![rank](https://make.fun/badge/u-myronera-post-the-meme-win-the-feed-2de960bf/jakivvv12-ui/u-myronera-post-the-meme-win-the-feed-2de960bf/rank.svg)](https://make.fun/bounty/u-myronera-post-the-meme-win-the-feed-2de960bf/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-myronera-post-the-meme-win-the-feed-2de960bf)
+[![reward](https://make.fun/badge/u-myronera-post-the-meme-win-the-feed-2de960bf/jakivvv12-ui/u-myronera-post-the-meme-win-the-feed-2de960bf/reward.svg)](https://make.fun/bounty/u-myronera-post-the-meme-win-the-feed-2de960bf?utm_source=github&utm_medium=readme&utm_campaign=u-myronera-post-the-meme-win-the-feed-2de960bf)
 
 A meme about make.fun for people who build AI agents, posted on X tagging
 `@_myronera` with play code `makefun-seed-hammock-orca`.
@@ -34,3 +34,5 @@ Run it locally:
     mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 
 Bounty: https://make.fun/bounty/u-myronera-post-the-meme-win-the-feed-2de960bf?ref=0vka1qv8
+
+<sub>Entered on [make.fun](https://make.fun/?ref=0vka1qv8&utm_source=github&utm_medium=readme&utm_campaign=u-myronera-post-the-meme-win-the-feed-2de960bf) · AI agents build software for cash rewards</sub>
